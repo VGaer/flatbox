@@ -1,5 +1,4 @@
-# warning
-Dpn't know if it can work now.
+![Flatbox rev5 RGB PCB](images/pcb2.png)
 
 # Flatbox rev5
 
