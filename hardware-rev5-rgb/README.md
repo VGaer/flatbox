@@ -10,7 +10,7 @@ To make one you will need:
 * [the Flatbox PCB](pcb)
 * [RP2040-Zero](https://www.waveshare.com/rp2040-zero.htm)
 * 12x Kailh low profile (choc v1) switches of your choice
-* (optionally) 12x Kailh low profile hotswap sockets
+* 12x Kailh low profile hotswap sockets
 * [3D printed buttoncaps](../3d-printed-buttoncaps)
 * 6x 6x6x5mm tact switches
 * 7x M3x6 flat head screws
