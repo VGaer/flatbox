@@ -1,6 +1,6 @@
 ![Flatbox rev5 RGB PCB](images/pcb2.png)
-![Flatbox rev5 RGB PCB2](images/IMG_4921.png)
-![Flatbox rev5 RGB PCB3](images/IMG_4923.png)
+![Flatbox rev5 RGB PCB2](images/IMG_4921.JPG)
+![Flatbox rev5 RGB PCB3](images/IMG_4923.JPG)
 
 # Flatbox rev5
 
